@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LexBooksProject.Form1">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAABAAAACAAgACCAQAAAAABgQAAAAAQAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Userdata">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAICAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Books">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Genres">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Users">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Form2">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LexBooksProject.Form2.MyUsersContext" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LexBooksProject.Form2.UsersData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LexBooksProject.Form2.Books" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LexBooksProject.Form2.Genres" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LexBooksProject.Form2.Users" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gQAgQomAoiAgBAMAYADEMggyACggAAAIAAAAgAAAAJA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Form3_REG">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="LexBooksProject.Form3_REG.MyUsersContext" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form3_REG.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="LexBooksProject.Form3_REG.UsersData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form3_REG.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAAIQAACAAIBAEAACAAAAWAAAYAAIAEGACAAAAAAA=</HashCode>
+      <FileName>Form3_REG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LexBooksProject.Program">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
